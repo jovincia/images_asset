@@ -8,3 +8,4 @@ class MainColors {
   static Color brown1 = const Color.fromARGB(255, 210, 142, 83);
   static Color? white =  Colors.white;
 }
+ 
